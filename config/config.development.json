@@ -1,0 +1,8 @@
+{
+    
+    "databaseConfig":{
+        "host":"oms-mongodb",
+        "database":"oms"
+    }
+    
+}
